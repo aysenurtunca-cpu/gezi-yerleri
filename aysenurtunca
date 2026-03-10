@@ -1,0 +1,25 @@
+index.html
+<!DOCTYPE html>
+<html>
+<head>
+<title>Balıkesir Gezilecek Yerler</title>
+</head>
+
+<body>
+
+<h1>Balıkesir Gezilecek Yerler</h1>
+
+<p>Bu site Balıkesir'de gezilebilecek yerleri tanıtmak için hazırlanmıştır.</p>
+
+<h2>Sayfalar</h2>
+
+<a href="plajlar.html">Balıkesir Plajları</a>
+<br><br>
+                                                
+<a href="dogal.html">Doğal Güzellikler</a>
+<br><br>
+
+<a href="yemekler.html">Balıkesir Yemekleri</a>
+
+</body>
+</html>
